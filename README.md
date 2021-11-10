@@ -46,3 +46,11 @@
 <br>
 ### EMPLOYEE UPDATE
 ![adding employee](https://github.com/Retheshgoud/angular-Empentry/blob/main/Screenshot%20(56).png)
+<br>
+<br>
+### EMPLOYEE SORTING BY NAME
+![sort by name](https://github.com/Retheshgoud/angular-Empentry/blob/main/Screenshot%20(60).png)
+<br>
+<br>
+### EMPLOYEE SORTING BY AGE
+![sort by age](https://github.com/Retheshgoud/angular-Empentry/blob/main/Screenshot%20(62).png)
