@@ -1,2 +1,3 @@
-# angular-Empentry
-assignment -2
+# angular-EMP_Entry (CRUD)
+## assignment -2
+Employee entry screen (home page)
